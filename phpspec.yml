@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: Devio\Pipedrive
-        psr4_prefix: Devio\Pipedrive
+        namespace: kinow-io/pipedrive-laravel-55
+        psr4_prefix: kinow-io/pipedrive-laravel-55
         src_path: src
