@@ -1,6 +1,6 @@
 {
-    "name": "devio/pipedrive",
-    "description": "Complete Pipedrive API client for PHP and/or Laravel",
+    "name": "kinow-io/pipedrive-laravel-55",
+    "description": "Complete Pipedrive API client for PHP and/or Laravel 5.5",
     "keywords": ["pipedrive", "api", "client", "laravel"],
     "license": "MIT",
     "authors": [
